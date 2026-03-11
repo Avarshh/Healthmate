@@ -41,3 +41,4 @@ python app.py
 
 ### 4. Start frontend
 npm start
+## NOTE!!: The static folder contains the TTS files
